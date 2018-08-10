@@ -1,0 +1,9 @@
+Visualización de datos, a traves de presentar variables mediante
+FORMAS, TAMAÑO, VALOR oRIENTACION, COLOR TEXTURA Y POSICIÓN EN EL PLANO XY
+
+var sexo = {mujeres:27, hombres:12}
+
+visualizar datos implica presentar atributos y valores mediante orientacion, tamaño, forma, iluminacion, color, textura y posición de elementos en un espacio visible
+
+Sinim sistema nacional informacion municipal
+Tener cuidado por donde vienen los datos
